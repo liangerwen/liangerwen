@@ -6,7 +6,7 @@
 😄很高兴你点开了我的主页
 
 - 🔭 我是一个前端工程师
-- 🌱 开源了一个低代码项目（未完成）：low-code
+- 🌱 开源了两个项目：[low-code](https://github.com/liangerwen/low-code "低代码项目") 和 [blog](https://github.com/liangerwen/blog-client "博客项目")
 - 💻 我的个人网站：http://www.liangerwen.cc
 - ⚡ 希望我写下的东西能帮助到你
 
